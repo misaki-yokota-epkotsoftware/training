@@ -20,13 +20,13 @@ try {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Git編</title>
+    <title>Git編A機能</title>
     <link rel="stylesheet" href="css/style.css" >
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
     <script src="//ajax.googleapis.com/ajax/libs/jqueryui/1/jquery-ui.min.js"></script>
 </head>
 <body>
-
+    A機能
 </body>
 </html>
 
