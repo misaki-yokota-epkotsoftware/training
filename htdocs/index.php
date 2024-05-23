@@ -20,16 +20,13 @@ try {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>test</title>
+    <title>Git編</title>
     <link rel="stylesheet" href="css/style.css" >
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
     <script src="//ajax.googleapis.com/ajax/libs/jqueryui/1/jquery-ui.min.js"></script>
-    <script>
-    //自作jsを作成
-    </script>
 </head>
 <body>
-    これはテストです
+
 </body>
 </html>
 
